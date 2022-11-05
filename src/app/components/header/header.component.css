@@ -1,0 +1,17 @@
+ .toolbar{
+   display: flex;
+   justify-content: space-between;
+ }
+
+ .link:hover{
+   cursor: pointer;
+ }
+
+ .active{
+   color: black;
+ }
+ .title{
+   display: flex;
+   justify-content: center;
+ }
+
